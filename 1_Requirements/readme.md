@@ -3,6 +3,7 @@
 ## High-Level Requirement
  
 Code|Requirements|Description|Implemented
+----|------------|-----------|------------
 HLR-001|
 HLR-002|
 HLR-003|

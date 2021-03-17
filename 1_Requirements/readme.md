@@ -4,9 +4,9 @@
  
 Code|Requirements|Description|Implemented
 ----|------------|-----------|------------
-HLR-001|
-HLR-002|
-HLR-003|
+HLR-001|Excel Sheets |
+HLR-002|Processing |
+HLR-003|Output |
 
 
 

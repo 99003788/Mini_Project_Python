@@ -4,9 +4,9 @@
  
 Code|Requirements|Description|Implemented
 ----|------------|-----------|------------
-HLR-001|Excel Sheets |Getting Data from five different Sheets|Implemented 
-HLR-002|Processing | Taken Input data from five sheets|Implemented 
-HLR-003|Output |  Writing Data to Master Sheet|Implemented 
+HLR-001|Excel Sheets |Collecting Data’s from 5 Different Sheets|Implemented 
+HLR-002|Processing | Processing input Data from Sheets|Implemented 
+HLR-003|Write down Data |  Write Correspond Data to Master Sheet|Implemented 
 
 
 
